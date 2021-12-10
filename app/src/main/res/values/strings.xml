@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="login">Login</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="yourname_example_com">yourname@example.com</string>
+    <string name="your_password">your password</string>
+    <string name="password">Password</string>
+    <string name="btnlogin">Login</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="reset_password">Reset password</string>
+    <string name="xyz_gmail_com">xyz@gmail.com</string>
+    <string name="email_address">Email address</string>
+    <string name="send_instruction">Send Instruction</string>
+    <string name="emailadd">Enter the email associated with your account\nand we\'ll send an email with instruction to\nreset password</string>
+    <string name="next">next</string>
+</resources>
